@@ -1,0 +1,22 @@
+{
+  "inferno": {
+    "smoke": [
+      {
+        "file_id": "BAACAgIAAxkBAAMuars7T4kmscIN3NhOcgQoP4497tYAAs-rAAICpJlJ14aZO5PGzLY9BA",
+        "caption": "inferno banan smoke"
+      }
+    ]
+  },
+  "mirage": {
+    "smoke": [
+      {
+        "file_id": "BAACAgIAAxkBAAO2artKDAW5d4Y-dJkUyNWlw9ocesgAAlGzAAJU8FBJuovcLdW6TQABPQQ",
+        "caption": ""
+      },
+      {
+        "file_id": "BAACAgIAAxkBAAPHartRJhzXmUzs7CZNHjnrn9aaFxoAAuavAAKURghLKSbUhMIEAXk9BA",
+        "caption": ""
+      }
+    ]
+  }
+}
